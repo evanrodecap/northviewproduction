@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Northview Production",
-    "currentPage": "Volunteer.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
