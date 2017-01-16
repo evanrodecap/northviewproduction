@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Northview Production",
-    "currentPage": "Home.html",
+    "currentPage": "live.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 54,
+    "uniqCompNum": 65,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": ""
@@ -262,7 +262,7 @@
           },
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
           "title": "Interested in the&nbsp;<b>Residency Program</b>? &nbsp; &nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"Internship.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>APPLY NOW</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline\" href=\"Internship.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://www.northviewchurch.us/residencyprogram/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>APPLY NOW</a>"
         },
         {
           "_styles": {
@@ -329,7 +329,7 @@
           "subtitle1": "",
           "title1": "Volunteer Training Portal",
           "caption1": "Thanks for wanting to serve! Please visit the training portal to begin.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://northviewchurch.us/training\" data-toolbar=\"-mbrBtnMove\">visit portal</a>"
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://northviewproduction.us/training\" data-toolbar=\"-mbrBtnMove\">visit portal</a>"
         },
         {
           "_styles": {
@@ -451,8 +451,8 @@
           "_name": "footer2",
           "_anchor": "footer2-c",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -779,6 +779,12 @@
             "Theme"
           ],
           "_name": "header11",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "header11-w",
           "_params": {
             "animText1": "WORSHIP LEADERS",
@@ -805,13 +811,7 @@
           "title": "FUTURE<br>",
           "text": "Internships and Residencies at Northview Church offer a powerful,<br>exciting experience for students willing to put in the work to help make a difference.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.northviewchurch.us/employment/northview-internships/\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
           "_styles": {
@@ -1044,6 +1044,12 @@
             "Theme"
           ],
           "_name": "video2",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "video2-11",
           "_params": {
             "paddingTop": 4,
@@ -1064,13 +1070,7 @@
               "loop": false
             }
           },
-          "text": "Welcome to Northview Church",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "Welcome to Northview Church"
         },
         {
           "alias": "colorm/components",
@@ -1078,18 +1078,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "content1-14",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<h3><b>Christmas 2016: Christmas is For-Giving</b></h3><br><h3><b><br></b></h3>The initial concept for the 2016 Christmas design was a ArtDeco or Great Gatsby look. Our immediate thought was gold, gold, gold. We tried to be very intentional in creating a versatile envoirment that would work well with all of our Christmas events and MultiSite locations with very little modification. With the ability to trim lighting at 40ft from the stage deck at our Carmel campus we also wanted to be intentional in creating a very even but large lighting look. <br><br><b>Carmel Campus - Full Staging</b><br><br><i>Lighting Control:</i><br>Jands Vista L5&nbsp;<br><br><i>Video Servers:</i><br>Coolux Pandoras Box, Casper<br><br><i>Video Playback:</i><br>ProPresenter, ProVideoPlayer<br><br><i>Video: </i><br>Christie S+16k Roadsters<br><br><i>Lighting:</i><br>6 - Martin Mac Viper Profile<br>7 - VL2500 Profile<br>8 - Elation 5r Extreme Professional Beam<br>6 - Martin Rush MH3 Beam<br>14 - American DJ 412 Professional Wash<br>26 - American DJ Kling Bar 54 LED<br>12 - ETC Selador Classic Lustor LED<br>14 - PixelRange RGBW PixelPar LED<br>6 - (In-House Fabrication) Straight Line 4lite Blinder<br>4 - (In-House Fabrication) Straight Line 2lite Blinder<br><br><i>Special Effects:</i><br>4 - Artistry in Motion Dual BigSHOT Blasters <br>1 - City Theatrical Aqua Fogger 3300<br><br><i>LED Products:</i><br>640 feet of SuperNight 12v RGB Tape\n<br>4 - 30AMP 12v 4 Circuit Power Supplies<br>4 - 8 Circuit 3 Channel 12v RGB Dimmers<br><br><i>Staging:</i><br>24 - 4x4 IntelliStage Variable Height Platforms<br><br><i>Set:</i><br>10 - PreLit Christmas Trees<br>4 - 10' CNC Cut Foam Trees<br>2 - 6' CNC Cut Foam Trees<br>1 - 10' CNC Cut Grid w/ 6' Included LED Tree<br>Custom Printed &amp; Cut Coroplast Panels\n<br><br><i>Supplies:</i><br>90ft 18AWG 4 Conductor Alarm Wire<br>50ft 12AWG 3 Conductor Power Wire<br>100 18AWG Crimp Butt Connectors<br><br><b>Multisite Campus - Compact Staging</b><br><br><i>Control:</i><br>Jands Vista S3<br><br><i>Video Playback:</i><br>ProPresenter, ProVideoPlayer<br><br><i>Video: </i><br>2 Barco RLM-W14<br>1 Barco HDX-W20<br><br><i>Lighting:</i><br>4 - Rogue R2 Spots<br>12 - Rogue R2 Wash Zoom<br>4 - American DJ Kling Bar 54 LED<br>4 - Generic RGBW LED FlatPars\n<br><br><i>LED Products:</i><br>140 feet of SuperNight 12v RGB Tape<br>3 - 30AMP 12v 4 Circuit Power Supplies<br>3 - 1 Circuit 3 Channel 12v RGB Dimmers<br><br><i>Set:</i><br>4 - PreLit Christmas Trees<br>2 - 6' CNC Cut Foam Trees<br>1 - 8' CNC Cut Grid w/ 6' Included LED Tree<br><br><i>Supplies:</i><br>25ft 18AWG 4 Conductor Alarm Wire<br>15ft 12AWG 3 Conductor Power Wire<br>50 18AWG Crimp Butt Connectors<br>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "<h3><b>Christmas 2016: Christmas is For-Giving</b></h3><br><h3><b><br></b></h3>The initial concept for the 2016 Christmas design was a ArtDeco or Great Gatsby look. Our immediate thought was gold, gold, gold. We tried to be very intentional in creating a versatile envoirment that would work well with all of our Christmas events and MultiSite locations with very little modification. With the ability to trim lighting at 40ft from the stage deck at our Carmel campus we also wanted to be intentional in creating a very even but large lighting look. <br><br><b>Carmel Campus - Full Staging</b><br><br><i>Lighting Control:</i><br>Jands Vista L5&nbsp;<br><br><i>Video Servers:</i><br>Coolux Pandoras Box, Casper<br><br><i>Video Playback:</i><br>ProPresenter, ProVideoPlayer<br><br><i>Video: </i><br>Christie S+16k Roadsters<br><br><i>Lighting:</i><br>6 - Martin Mac Viper Profile<br>7 - VL2500 Profile<br>8 - Elation 5r Extreme Professional Beam<br>6 - Martin Rush MH3 Beam<br>14 - American DJ 412 Professional Wash<br>26 - American DJ Kling Bar 54 LED<br>12 - ETC Selador Classic Lustor LED<br>14 - PixelRange RGBW PixelPar LED<br>6 - (In-House Fabrication) Straight Line 4lite Blinder<br>4 - (In-House Fabrication) Straight Line 2lite Blinder<br><br><i>Special Effects:</i><br>4 - Artistry in Motion Dual BigSHOT Blasters <br>1 - City Theatrical Aqua Fogger 3300<br><br><i>LED Products:</i><br>640 feet of SuperNight 12v RGB Tape\n<br>4 - 30AMP 12v 4 Circuit Power Supplies<br>4 - 8 Circuit 3 Channel 12v RGB Dimmers<br><br><i>Staging:</i><br>24 - 4x4 IntelliStage Variable Height Platforms<br><br><i>Set:</i><br>10 - PreLit Christmas Trees<br>4 - 10' CNC Cut Foam Trees<br>2 - 6' CNC Cut Foam Trees<br>1 - 10' CNC Cut Grid w/ 6' Included LED Tree<br>Custom Printed &amp; Cut Coroplast Panels\n<br><br><i>Supplies:</i><br>90ft 18AWG 4 Conductor Alarm Wire<br>50ft 12AWG 3 Conductor Power Wire<br>100 18AWG Crimp Butt Connectors<br><br><b>Multisite Campus - Compact Staging</b><br><br><i>Control:</i><br>Jands Vista S3<br><br><i>Video Playback:</i><br>ProPresenter, ProVideoPlayer<br><br><i>Video: </i><br>2 Barco RLM-W14<br>1 Barco HDX-W20<br><br><i>Lighting:</i><br>4 - Rogue R2 Spots<br>12 - Rogue R2 Wash Zoom<br>4 - American DJ Kling Bar 54 LED<br>4 - Generic RGBW LED FlatPars\n<br><br><i>LED Products:</i><br>140 feet of SuperNight 12v RGB Tape<br>3 - 30AMP 12v 4 Circuit Power Supplies<br>3 - 1 Circuit 3 Channel 12v RGB Dimmers<br><br><i>Set:</i><br>4 - PreLit Christmas Trees<br>2 - 6' CNC Cut Foam Trees<br>1 - 8' CNC Cut Grid w/ 6' Included LED Tree<br><br><i>Supplies:</i><br>25ft 18AWG 4 Conductor Alarm Wire<br>15ft 12AWG 3 Conductor Power Wire<br>50 18AWG Crimp Butt Connectors<br>"
         },
         {
           "alias": "colorm/components",
@@ -1604,6 +1604,17 @@
             "Theme"
           ],
           "_name": "features9",
+          "_styles": {
+            "H4": {
+              "color": "#666666"
+            },
+            "P": {
+              "color": "#333333"
+            },
+            ".date P": {
+              "color": "#f39c12"
+            }
+          },
           "_anchor": "features9-1e",
           "_params": {
             "blocks": "7",
@@ -1663,18 +1674,7 @@
           "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "date12": "12 December 2016",
           "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "_styles": {
-            "H4": {
-              "color": "#666666"
-            },
-            "P": {
-              "color": "#333333"
-            },
-            ".date P": {
-              "color": "#f39c12"
-            }
-          }
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -1686,6 +1686,19 @@
             "Theme"
           ],
           "_name": "team1",
+          "_styles": {
+            ".title1": {
+              "color": "#ecf0f1"
+            },
+            ".title3": {
+              "color": "#ecf0f1"
+            },
+            "H1": {
+              "color": "#ecf0f1",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "team1-19",
           "_params": {
             "rows": "2",
@@ -1771,19 +1784,6 @@
               "title": "",
               "linkInNewWindow": false
             }
-          },
-          "_styles": {
-            ".title1": {
-              "color": "#ecf0f1"
-            },
-            ".title3": {
-              "color": "#ecf0f1"
-            },
-            "H1": {
-              "color": "#ecf0f1",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
           }
         },
         {
@@ -1796,6 +1796,17 @@
             "Theme"
           ],
           "_name": "team1",
+          "_styles": {
+            ".title1": {
+              "color": "#ecf0f1"
+            },
+            ".title3": {
+              "color": "#ecf0f1"
+            },
+            ".subtitle2": {
+              "color": "#bbbbbb"
+            }
+          },
           "_anchor": "team1-1b",
           "_params": {
             "rows": "2",
@@ -1881,17 +1892,6 @@
               "title": "",
               "linkInNewWindow": false
             }
-          },
-          "_styles": {
-            ".title1": {
-              "color": "#ecf0f1"
-            },
-            ".title3": {
-              "color": "#ecf0f1"
-            },
-            ".subtitle2": {
-              "color": "#bbbbbb"
-            }
           }
         },
         {
@@ -1904,6 +1904,17 @@
             "Theme"
           ],
           "_name": "team1",
+          "_styles": {
+            ".title1": {
+              "color": "#ecf0f1"
+            },
+            ".title3": {
+              "color": "#ecf0f1"
+            },
+            ".subtitle2": {
+              "color": "#bbbbbb"
+            }
+          },
           "_anchor": "team1-1c",
           "_params": {
             "rows": "2",
@@ -1988,17 +1999,6 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            }
-          },
-          "_styles": {
-            ".title1": {
-              "color": "#ecf0f1"
-            },
-            ".title3": {
-              "color": "#ecf0f1"
-            },
-            ".subtitle2": {
-              "color": "#bbbbbb"
             }
           }
         },
@@ -2359,6 +2359,150 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#666666",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2016 Northview Church"
+        }
+      ]
+    },
+    "live.html": {
+      "settings": {
+        "title": "Northview Church Production | Restricted Stream"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call3",
+          "_anchor": "call3-1o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#e74c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#e74c3c",
+            "showText": true,
+            "showTitle": true,
+            "showButtons": false
+          },
+          "text": "NORTHVIEW CHURCH PRODUCTION",
+          "title": "LIVE PLAYBACK",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN IN</a>"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-1s",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "showImages": true
+          },
+          "number1": "",
+          "subtitle1": "RESTRICTED PLAYBACK OFFLINE",
+          "title1": "PLEASE STANDBY",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#f39c12"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-1g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
